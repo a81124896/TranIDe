@@ -15,5 +15,8 @@ public class Hellword {
         for (Aa aa : aas) {
             System.out.println(aa.getA());
         }
+        for (Aa aa : aas) {
+            System.out.println(aa.getA());
+        }
     }
 }
